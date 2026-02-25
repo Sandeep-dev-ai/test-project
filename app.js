@@ -4,3 +4,8 @@ console.log("Hello Lucifer");
 })
 console.log("We looped and array using forEach")
 console.log("This is new line added")
+function demo(){
+  document.querySelector(".outer").innerHTML=`<h1>Welcome to the World of Time br
+  time travel</h1>`
+  
+}
