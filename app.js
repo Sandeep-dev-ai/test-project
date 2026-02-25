@@ -3,3 +3,4 @@ console.log("Hello Lucifer");
   console.log(ele)
 })
 console.log("We looped and array using forEach")
+console.log("This is new line added")
